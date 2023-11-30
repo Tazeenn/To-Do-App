@@ -35,3 +35,11 @@ Add new tasks with the TodoForm component.
 Edit existing tasks with the TodoItem component.
 Mark tasks as completed or incomplete.
 Delete tasks with the TodoItem component.
+
+## Screenshots
+![Screenshot1](https://github.com/Tazeenn/To-Do-App/assets/95432172/06869f45-6f51-4797-add2-1eb158898aad)
+![Screenshot2](https://github.com/Tazeenn/To-Do-App/assets/95432172/6823b2fd-0046-46d6-92e6-9ebcd75a62df)
+![Screenshot3](https://github.com/Tazeenn/To-Do-App/assets/95432172/23d3e17a-7c44-4b8f-9f9f-c24504b0529c)
+![Screenshot4](https://github.com/Tazeenn/To-Do-App/assets/95432172/6e22c441-88dc-4012-948a-5827553a6725)
+![Screenshot5](https://github.com/Tazeenn/To-Do-App/assets/95432172/bcae0710-dfa7-41a8-b97b-c6e531db78b8)
+
